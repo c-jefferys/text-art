@@ -8,7 +8,7 @@ Linked List Manipulation, Two-Dimensional Arrays, File Input/Output, Header File
 **This program is only compatible with Windows machines since it utilizes windows-specific header files.**
 
 ## NOTE
-**The SavedFiles folder is necessary for loading and saving text art. The folder already has some art included, which can be loaded into the canvas and freely edited. Also make sure you have all of the necessary .cpp files in the folder/solution. This program was written and tested using Visual Studio.**
+**The SavedFiles folder is necessary for loading and saving text art. The folder already has some art included, which can be loaded into the canvas and freely edited. Also make sure you have all of the necessary .cpp files in the folder/solution. To utilize loading and saving, download and extract the .zip file and open the .sln file in Visual Studio. This program was written and tested using Visual Studio.**
 
 ## Menu Navigation 
 Navigate the menu by inputting the highlighted letter of your desired feature. Prompts will follow to give further instruction once a choice has been made. The Draw menu provides extra features for drawing and filling designs.
