@@ -1,5 +1,5 @@
 # text-art
-This program allows you to draw, edit, save/load, and animate ASCII text art in the windows terminal. There are also multiple features for drawing pre-made shapes/designs. This program utilizes linked lists to manage the list of canvases, the undo list, and the redo list.
+This program allows you to draw, edit, save/load, and animate ASCII text art in the Windows terminal. There are also multiple features for drawing pre-made shapes/designs. This program utilizes linked lists to manage the list of canvases, the undo list, and the redo list.
 
 ## Concepts
 Linked List Manipulation, Two-Dimensional Arrays, File Input/Output, Header File Creation/Implementation, String Manipulation, Array Manipulation, Output Terminal Manipulation 
